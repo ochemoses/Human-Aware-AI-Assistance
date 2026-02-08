@@ -562,6 +562,8 @@ For issues, questions, or suggestions:
 
 **Made with ❤️ for AI Enthusiasts**
 
-#   H u m a n - A w a r e - A I - A s s i s t a n c e  
- #   H u m a n - A w a r e - A I - A s s i s t a n c e  
+#   H u m a n - A w a r e - A I - A s s i s t a n c e 
+ 
+ #   H u m a n - A w a r e - A I - A s s i s t a n c e 
+ 
  
