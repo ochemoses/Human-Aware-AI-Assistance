@@ -96,7 +96,7 @@ source AI_Assistance_venv/bin/activate
 
 ```bash
 pip install --upgrade pip
-pip install ultralytics vosk pysoundfile pyttsx3 opencv-python genai
+pip install ultralytics vosk pyaudio pyttsx3  google-genai
 ```
 
 #### PyAudio Installation (Important)
@@ -333,3 +333,4 @@ Yes. Edit the system prompt in `LLM.py`.
 ---
 
 **Made with ❤️ for AI and Computer Vision Enthusiasts**
+
